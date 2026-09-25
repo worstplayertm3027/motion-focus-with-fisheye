@@ -1,9 +1,9 @@
 Ganossa Motion Focus - Modernized Edition with Motion Fisheye
 =================
 
-Ganossa Motion Focus port with Motion Fisheye support 
-Original concept: Ganossa (mediehawk@gmail.com) 
-Original port credit: IDDQD 
+ Ganossa Motion Focus port with Motion Fisheye support 
+ Original concept: Ganossa (mediehawk@gmail.com) 
+ Original port credit: IDDQD 
  
 Modernization goals:
 - Keep the original motion-following idea.
